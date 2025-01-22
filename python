@@ -1,0 +1,93 @@
+#name = input("what is your name?")
+#print("hello,",name,"my name is baya",)
+#hobbi = input("are you have hobbi?")
+#print("yes",hobbi,"my hobbi play foot ball!")
+from ipaddress import summarize_address_range
+
+#print("my name tom",name,",yes am",old,",play",hobbi,)
+
+
+
+
+
+
+
+
+
+
+#print(name)
+#name='Tom'
+#name='Sam'
+
+#name='hello'
+#Name='good'
+#name1='COOK'
+#NAME='BAYA'
+#print(name1)
+#print(Name)
+
+
+#r = 10
+#pi=3.14
+#a =2*pi*r*r
+#print(a)
+
+#c = 6
+#f = c*9/5+32
+#print(f)
+  
+#num1 = 10
+#num2 = 12
+#summa = num1+num2
+#deleni = num1/num2
+#ymna = num1*num2
+#minus = num1-num2
+#print(minus)
+#print(ymna)
+#print(summa)
+#print(deleni)
+#age = input("what is your age?")
+#print(age)
+#name = ('mary')
+#age = 20
+#print("Her name is", name, "her age is",age)
+#print(f"Her name is {name} her age is {age}")
+#num1 = 5
+#num2 = 2.5
+#num3 = int(num2)
+#print(num3)
+#num1 = input()
+#num2 = input()
+
+#name=input("what is your name?")
+#print=(f'{name}')
+
+#num1 = int(input ("введи "))
+#num2 = int(input("введи "))
+#summa = num1+num2
+#print=f'{summa}'
+
+# price = 10.6
+# print(type(price))
+#
+# price1 = str(price)
+# price2 = 60
+# price3 = price + price2
+# print(price3)
+
+# price = 12
+# print(type(price))
+# price = price + 4.5
+# print(type(price))
+
+# name = "Sam"
+# print(type(name))
+
+sell = input("За сколько ты продал акк?")
+print(sell)
+som = input(" Сколько сом он дал?" )
+print(som)
+zdachi = ("Сколька сом ты дал ему на сдачy?")
+print(zdachi)
+akk = ("акк стоил своих денег?")
+print(akk)
